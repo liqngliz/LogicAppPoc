@@ -1,0 +1,13 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_INPROC_NET8_ENABLED": "1",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "APP_KIND": "workflowapp",
+    "WORKFLOWS_TENANT_ID": "0be3d6b4-b901-45b0-8393-e3b984257149",
+    "WORKFLOWS_SUBSCRIPTION_ID": "30355070-fe79-46bb-a1e8-f0610403172d",
+    "WORKFLOWS_RESOURCE_GROUP_NAME": "Play-Ground",
+    "WORKFLOWS_LOCATION_NAME": "switzerlandnorth",
+    "WORKFLOWS_MANAGEMENT_BASE_URI": "https://management.azure.com/"
+  }
+}

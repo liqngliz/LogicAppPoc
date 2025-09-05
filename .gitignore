@@ -1,4 +1,3 @@
-
 # Azure logic apps artifacts
 bin
 obj
@@ -9,7 +8,9 @@ __blobstorage__
 __queuestorage__
 __azurite_db*__.json
 
+
 # Added folders and file patterns
 workflow-designtime/
 .vscode/
 *.code-workspace
+.DS_Store
